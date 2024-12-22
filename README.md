@@ -68,4 +68,47 @@ This project is a fully functional Banking Application built with JavaScript, HT
 
 ### The link created by the github, to test the project live version.
 
+https://zukakharati.github.io/Project-4-Bankist-App/
+
+### 📷 Screenshots
+
+Main Page
+
+![image](https://github.com/user-attachments/assets/6fde91ae-fc45-4fcb-99fb-d315cb2257d6)
+
+First User Loged In
+
+![image](https://github.com/user-attachments/assets/8b8026e8-8e61-4145-945b-240fad668969)
+
+First user Transfered Money to the Second User
+
+![image](https://github.com/user-attachments/assets/1459328c-71f0-449b-9198-deab6c5165c7)
+
+Second User Received the money
+
+![image](https://github.com/user-attachments/assets/76a10b01-8bed-43b2-ac66-e8811655633a)
+
+Second User requested loans
+
+![image](https://github.com/user-attachments/assets/7f258e6d-63cd-42db-b927-9fb7e1b72a8b)
+
+Transfers are Sorted 
+
+![image](https://github.com/user-attachments/assets/06fb24f9-4227-4c00-bc68-473ed44c85f6)
+
+Second user closed the account and it is not accessible anymore
+
+![image](https://github.com/user-attachments/assets/aa566bd9-4265-4cfd-9191-8187168930c0)
+
+### 📝 Author
+• Name - Zaur Kharati
+
+• Github - https://github.com/ZukaKharati/Project-1-Guess-My-Number
+
+• LinkedIn - https://www.linkedin.com/in/zaur-kharati-940287211/
+
+
+### 🎉 Thanks for viewing the project and good luck!
+
+
 
