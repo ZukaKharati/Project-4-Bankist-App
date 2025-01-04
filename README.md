@@ -3,11 +3,15 @@
 This project is a fully functional Banking Application built with JavaScript, HTML, and CSS. It allows users to log in to their bank accounts, view their transactions, transfer funds, request loans, and manage their accounts. The app also provides a smooth and interactive user experience by utilizing modern JavaScript features such as the Intl API for formatting dates and currencies, and timers for auto-logout functionality.
 
 ★ FIRST ACCOUNT
+
 USERNAME - js
+
 PASSWORD - 1111
 
 ★ SECOND ACCOUNT
+
 USER - jd
+
 PASSWORD - 2222
 
 ## 📋Features
